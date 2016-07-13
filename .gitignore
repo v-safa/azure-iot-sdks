@@ -185,6 +185,7 @@ Buildx86retail.dat
 
 # Tools EXE that doesn't end up in a typical build directory
 c/common/tools/macro_utils_h_generator/macro_utils_h_generator.exe
+tools/jenkins-cli.jar
 
 # hg directories should be ignored
 **/hg/
